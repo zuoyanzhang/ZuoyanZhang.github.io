@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "About"
+layout: archive
+title: "ZuoyanZ"
+permalink: /zuoyanz/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am currently a Ph.D. candidate at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my M.S. degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University. My research interests span ML compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA. 
