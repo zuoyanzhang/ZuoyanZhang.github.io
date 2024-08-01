@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD. Candidate at Hunan University. Machine learning compilers and program analysis."
   location         : "Changsha, Hunan"
-  employer         : #"Red Brick University"
+  employer         : "Hunan University"
   uri              : # URL
   email            : "zhangzuoyan523@163.com" 
 
@@ -35,9 +35,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=m6lSKEAAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-2615-2541"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Zuoyan-Zhang/2222347707"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  dplp             : "https://dblp.org/pid/360/7212.html"
+  dblp             : "https://dblp.org/pid/360/7212.html"
   researchgate     : # URL
 
   # Repositories and software development
