@@ -83,6 +83,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
             </span>
 
             <a href="../files/hsed.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
+            <a href="https://github.com/zuoyanzhang/HSED" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[TOOL]</a>
         </div>
     </div>
 </div>
