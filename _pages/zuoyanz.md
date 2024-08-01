@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ZuoyanZ"
+title: "Zuoyan Zhang"
 permalink: /zuoyanz/
 author_profile: true
 ---
