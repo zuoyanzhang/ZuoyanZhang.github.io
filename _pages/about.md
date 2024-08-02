@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my M.S. degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University. My research interests span ML compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA. 
+I am currently a Ph.D. candidate at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University. My research interests span ML compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA. 
 
 Educations
 ======
 * PhD, 2024.09 - present, Hunan University, Changsha, China, Supervisor: Prof. Jie Zhao 
-* MPhil, 2021.09 - 2024.06, Information Engineering University, Zhengzhou, China, Supervisor: Prof. Shaozhong Guo 
+* MEng, 2021.09 - 2024.06, Information Engineering University, Zhengzhou, China, Supervisor: Prof. Shaozhong Guo 
 * BEng, 2017.09 - 2021.06, Henan University of Technology, Zhengzhou, China 
 
 Research Interests
