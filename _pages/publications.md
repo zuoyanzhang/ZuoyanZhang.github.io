@@ -6,9 +6,9 @@ author_profile: true
 ---
 Note: * for corresponding author, # for equal contribution. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=m6lSKEAAAAAJ&hl=en).
 
-## Conference Papers
+## 📑 Conference Papers
 ---
-### 2024
+### *2024*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C2]</div>
@@ -22,7 +22,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
     </div>
 </div>
 
-### 2023
+### *2023*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C1]</div>
@@ -41,9 +41,9 @@ Note: * for corresponding author, # for equal contribution. You can also find my
     </div>
 </div>
 
-## Journal Publications
+## 📝 Journal Publications
 ---
-### 2023
+### *2023*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J3]</div>
@@ -83,7 +83,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
             </span>
 
             <a href="../files/hsed.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
-            <a href="https://github.com/zuoyanzhang/HSED" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[TOOL]</a>
+            <a href="https://github.com/zuoyanzhang/HSED" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
         </div>
     </div>
 </div>

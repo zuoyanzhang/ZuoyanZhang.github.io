@@ -9,8 +9,8 @@ This page collects a(n incomplete) list of open-source projects that Zuoyan Zhan
 
 ---
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/eiffel.jpg" alt="Image" style="max-width: 500px; margin-right: 40px;">
+<div style="display: flex; align-items: center; text-align: justify;">
+    <img src="../images/eiffel.jpg" alt="Image" style="max-width: 350px; margin-right: 40px;">
     <div>
         <h2>Eiffel</h2>
         <p>
@@ -20,8 +20,8 @@ This page collects a(n incomplete) list of open-source projects that Zuoyan Zhan
     </div>
 </div>
 ---
-<div style="display: flex; align-items: center;">
-    <img src="../images/hsed.jpg" alt="Image" style="max-width: 500px; margin-right: 40px;">
+<div style="display: flex; align-items: center; text-align: justify;">
+    <img src="../images/hsed.jpg" alt="Image" style="max-width: 350px; margin-right: 40px;">
     <div>
         <h2>HSED</h2>
         <p>
