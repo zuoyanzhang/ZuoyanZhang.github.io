@@ -25,7 +25,7 @@ redirect_from:
 
 🔬 Research Interests
 ---
-My research interests span programming languages and software engineering, especially include: 
+My research interests span programming languages and software engineering including: 
 * Floating-point Error Detection 
 * Program Analysis 
 * Machine Learning Compilers

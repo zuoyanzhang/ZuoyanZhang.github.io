@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## 🏆 Scholarship
+## 🎖️ Scholarship 
 ---
 * National Scholarship: *2023* in Information Engineering University
 
