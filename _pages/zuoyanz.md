@@ -12,6 +12,8 @@ author_profile: true
 
 🔥 News
 ---
+* *2024.09*: I will attend [CCF HPC China 2024]((https://ccf.org.cn/hpcchina2024)) and be a guest speaker at the [2nd China Chip Basic Function Library Forum](https://ccf.org.cn/hpcchina2024/schedule_d_2028) on 26 Sep.
+* *2024.09*: I will be attending [ISSTA 2024](https://2024.issta.org/track/issta-2024-papers#program) and giving a paper presentation on "Arfa: An Agile Regime-based Floating-point Optimization Approach for Rounding Errors" in 19 Sep.
 * *2024.07*: One paper titled "Arfa: An Agile Regime-based Floating-point Optimization Approach for Rounding Errors" was accepted by [ISSTA 2024](https://2024.issta.org/).
 * *2023.07*: One paper titled "Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation" was accepted by [ASE 2023](https://conf.researchr.org/home/ase-2023).
 
