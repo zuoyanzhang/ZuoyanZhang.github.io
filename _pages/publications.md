@@ -18,6 +18,9 @@ Note: * for corresponding author, # for equal contribution. You can also find my
                 Jinchen Xu#, Mengqi Cui#, Fei Li, <strong>Zuoyan Zhang</strong>, Hongru Yang, Bei Zhou*, Jie Zhao* <br>
                 <em>In Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis (ISSTA 2024) Sep 2024</em>
             </span>
+
+            <a href="../files/arfa.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
+            <a href="https://github.com/yuanyuanxia/exprAuto" style="margin-left: 10px; text-decoration: none; color: #007bff;font-weight: lighter;">[TOOL]</a>
         </div>
     </div>
 </div>
