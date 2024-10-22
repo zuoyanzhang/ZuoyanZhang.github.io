@@ -12,7 +12,7 @@ author_profile: true
 ## 📈 Project Experiences
 ---
 **Research on Error Detection Methods for Floating-point Arithmetic Expressions**
-* Open Project of the State Key Laboratory of Mathematical Engineering and Advanced Computing (Grant No. 2023B02), *2022.10 - 2024.10*
+* Open Project of the State Key Laboratory of Mathematical Engineering and Advanced Computing (Grant No. 2023B02), *2022.10 - 2024.09*
 * Main participant
 * ¥ 600,000
 
