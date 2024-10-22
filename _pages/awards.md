@@ -15,7 +15,7 @@ author_profile: true
 
 * First Class Academic Scholarship, Information Engineering University, *2023.11*
 
-* Second Class Academic Scholarship, in Information Engineering University, *2022.11*
+* Second Class Academic Scholarship, Information Engineering University, *2022.11*
 
 * First Class Academic Scholarship, Information Engineering Universit, *2021.11*
 
