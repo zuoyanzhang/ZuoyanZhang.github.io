@@ -21,7 +21,7 @@ author_profile: true
 * Participant
 * ¥ 2,600,000 in total; ¥ 800,000 for the Information Engineering University
 
-**xxxx**
+**"xxxx" Engineering Basic Mathematics Library System**
 * National major special project
 * Participant
 
