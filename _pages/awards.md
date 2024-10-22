@@ -5,15 +5,19 @@ permalink: /awards/
 author_profile: true
 ---
 
+## 🏆 Honors and Awards
+---
+* Excellent MEng Dissertation Award, Information Engineering University, *2024.10*
+
 ## 🎖️ Scholarship 
 ---
-* National Scholarship: *2023* in Information Engineering University
+* National Scholarship, Ministry of Education of China, *2023.12*
 
-* First Class Academic Scholarship: *2023* in Information Engineering University
+* First Class Academic Scholarship, Information Engineering University, *2023.11*
 
-* Second Class Academic Scholarship: *2022* in Information Engineering University
+* Second Class Academic Scholarship, in Information Engineering University, *2022.11*
 
-* First Class Academic Scholarship: *2021* in Information Engineering Universit
+* First Class Academic Scholarship, Information Engineering Universit, *2021.11*
 
 
 
