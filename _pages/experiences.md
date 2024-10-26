@@ -5,11 +5,11 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## 👨‍💻 Working Experiences
+## Working Experiences
 ---
 * Research Intern in [AI for Science Institute (BEIJING)](https://www.aisi.ac.cn/), 2023.06 - 2023.09
 
-## 📈 Project Experiences
+## Project Experiences
 ---
 **Research on Error Detection Methods for Floating-point Arithmetic Expressions**
 * Open Project of the State Key Laboratory of Mathematical Engineering and Advanced Computing (Grant No. 2023B02), *2022.10 - 2024.09*

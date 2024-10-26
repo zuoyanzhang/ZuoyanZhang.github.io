@@ -5,11 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-## 🏆 Honors and Awards
+## Honors and Awards
 ---
 * Excellent MEng Dissertation Award, Information Engineering University, *2024.10*
 
-## 🎖️ Scholarship 
+## Scholarship 
 ---
 * National Scholarship, Ministry of Education of China, *2023.12*
 

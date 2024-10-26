@@ -6,7 +6,7 @@ author_profile: true
 ---
 Note: * for corresponding author, # for equal contribution. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=m6lSKEAAAAAJ&hl=en).
 
-## 📑 Conference Papers
+## Conference Papers
 ---
 ### *2024*
 <div style="margin-bottom: 20px;">
@@ -45,7 +45,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
     </div>
 </div>
 
-## 📝 Journal Publications
+## Journal Publications
 ---
 ### *2023*
 <div style="margin-bottom: 20px;">

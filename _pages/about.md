@@ -12,7 +12,7 @@ redirect_from:
 </div>
 <!-- I am currently a PhD student at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University. My research interests span machine learning compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA.  -->
 
-🔥 News
+News
 ---
 * *2024.09*: I participated in [CCF HPC China 2024](https://ccf.org.cn/hpcchina2024) and be a guest speaker at the [2nd China Chip Basic Function Library Forum](https://ccf.org.cn/hpcchina2024/schedule_d_2028) on 26 Sep.
 * *2024.09*: I participated in [ISSTA 2024](https://2024.issta.org/track/issta-2024-papers#program) and gave a paper presentation on "Arfa: An Agile Regime-based Floating-point Optimization Approach for Rounding Errors" in 19 Sep.
@@ -25,7 +25,7 @@ redirect_from:
 * MEng, *2021.09 - 2024.06*, Information Engineering University, Zhengzhou, China, Supervisor: Prof. Shaozhong Guo 
 * BEng, *2017.09 - 2021.06*, Henan University of Technology, Zhengzhou, China  -->
 
-🔬 Research Interests
+Research Interests
 ---
 My research interests span programming languages and software engineering including: 
 * Floating-point Error Detection 
