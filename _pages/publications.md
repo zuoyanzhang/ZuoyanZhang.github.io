@@ -50,6 +50,21 @@ Note: * for corresponding author, # for equal contribution. You can also find my
 ### *2023*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J5]</div>
+        <div style="flex: 1;">
+            Hierarchical search algorithm for error detection in floating-point arithmetic expressions<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Zuoyan Zhang</strong>#, Jinchen Xu#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou*<br>
+                <em>The Journal of Supercomputing</em>
+            </span>
+
+            <a href="../files/hsed.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
+            <a href="https://github.com/zuoyanzhang/HSED" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[TOOL]</a>
+        </div>
+    </div>
+</div>
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J4]</div>
         <div style="flex: 1;">
             SCR-LIBM: A Correctly Rounded Elementary Function Library in Double-Precison<br>
@@ -94,17 +109,17 @@ Note: * for corresponding author, # for equal contribution. You can also find my
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J1]</div>
         <div style="flex: 1;">
-            Hierarchical search algorithm for error detection in floating-point arithmetic expressions<br>
+            Automatic mixed-precision optimization for matrix multiplication computations<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                <strong>Zuoyan Zhang</strong>#, Jinchen Xu#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou*<br>
-                <em>The Journal of Supercomputing</em>
+                Haotian He, Bei Zhou, Shaozhong Guo, Liguang Ji, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu<br>
+                <em>Computer Science</em>
             </span>
 
-            <a href="../files/hsed.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
-            <a href="https://github.com/zuoyanzhang/HSED" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[TOOL]</a>
+            <!-- <a href="../files/mixed-precision.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a> -->
         </div>
     </div>
 </div>
+
 
 
 
