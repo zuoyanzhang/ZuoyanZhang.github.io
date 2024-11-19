@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-    I am currently a first-year PhD student at the <a href="https://cyclelaboratory.github.io">CYCLE Lab</a> at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. My research interests span machine learning compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA.
+    I am currently a first-year PhD student at the <a href="https://cyclelaboratory.github.io">CYCLE Lab</a> at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. My research interests span machine learning system and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA.
 </div>
 <!-- I am currently a PhD student at Hunan University under the supervisor Prof. <a href="https://yaozhujia.github.io">Jie Zhao</a>. I got my MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University. My research interests span machine learning compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. My research has been recognized with ASE, ISSTA.  -->
 
@@ -27,9 +27,10 @@ News
 
 Research Interests
 ---
-My research interests span programming languages and software engineering including: 
+My research interests span ML system and software engineering including: 
 * Floating-point Error Detection 
 * Program Analysis 
 * Machine Learning Compilers
+* LLM Distributed Training Acceleration
 
 

@@ -50,7 +50,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
 ### *2023*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J3]</div>
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J4]</div>
         <div style="flex: 1;">
             SCR-LIBM: A Correctly Rounded Elementary Function Library in Double-Precison<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
@@ -64,7 +64,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
 </div>
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J2]</div>
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J3]</div>
         <div style="flex: 1;">
             Detecting Floating-Point Expression Errors Based Improved PSO Algorithm<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
@@ -73,6 +73,20 @@ Note: * for corresponding author, # for equal contribution. You can also find my
             </span>
 
             <a href="../files/PSO.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
+        </div>
+    </div>
+</div>
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J2]</div>
+        <div style="flex: 1;">
+            Automatic mixed-precision optimization of matrix multiplication based on polyhedron model<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Haotian He, Bei Zhou, Shaozhong Guo, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu<br>
+                <em>Computer Science</em>
+            </span>
+
+            <a href="../files/mixed-precision.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
         </div>
     </div>
 </div>
