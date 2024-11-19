@@ -95,9 +95,9 @@ Note: * for corresponding author, # for equal contribution. You can also find my
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J2]</div>
         <div style="flex: 1;">
-            Automatic mixed-precision optimization of matrix multiplication based on polyhedron model<br>
+            Optimisation of automatic matrix multiplication mixing accuracy based on polyhedral models<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Haotian He, Bei Zhou, Shaozhong Guo, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu<br>
+                Haotian He#, Bei Zhou, Shaozhong Guo, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu*<br>
                 <em>Computer Science</em>
             </span>
 
@@ -111,7 +111,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
         <div style="flex: 1;">
             Automatic mixed-precision optimization for matrix multiplication computations<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Haotian He, Bei Zhou, Shaozhong Guo, Liguang Ji, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu<br>
+                Haotian He#, Bei Zhou, Shaozhong Guo, Liguang Ji, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu*<br>
                 <em>Computer Science</em>
             </span>
 
