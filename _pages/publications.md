@@ -50,7 +50,7 @@ Note: * for corresponding author, # for equal contribution. You can also find my
 ### *2023*
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J5]</div>
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J1]</div>
         <div style="flex: 1;">
             Hierarchical search algorithm for error detection in floating-point arithmetic expressions<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
@@ -63,62 +63,10 @@ Note: * for corresponding author, # for equal contribution. You can also find my
         </div>
     </div>
 </div>
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J4]</div>
-        <div style="flex: 1;">
-            SCR-LIBM: A Correctly Rounded Elementary Function Library in Double-Precison<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Yang Qu#, Jinchen Xu, Bei Zhou*, Jiangwei Hao, Fei Li, <strong>Zuoyan Zhang</strong><br>
-                <em>International Journal of Software Engineering and Knowledge Engineering</em>
-            </span>
 
-            <a href="../files/scrlibm.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
-        </div>
-    </div>
-</div>
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J3]</div>
-        <div style="flex: 1;">
-            Detecting Floating-Point Expression Errors Based Improved PSO Algorithm<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Hongru Yang#, Jinchen Xu, Jiangwei Hao, <strong>Zuoyan Zhang</strong>, Bei Zhou*<br>
-                <em>IET Software</em>
-            </span>
 
-            <a href="../files/PSO.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
-        </div>
-    </div>
-</div>
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J2]</div>
-        <div style="flex: 1;">
-            Optimisation of automatic matrix multiplication mixing accuracy based on polyhedral models<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Haotian He#, Bei Zhou, Shaozhong Guo, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu*<br>
-                <em>Computer Science</em>
-            </span>
 
-            <a href="../files/mixed-precision.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a>
-        </div>
-    </div>
-</div>
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J1]</div>
-        <div style="flex: 1;">
-            Automatic mixed-precision optimization for matrix multiplication computations<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Haotian He#, Bei Zhou, Shaozhong Guo, Liguang Ji, <strong>Zuoyan Zhang</strong>, Jiangwei Hao, Jinchen Xu*<br>
-                <em>Computer Science</em>
-            </span>
 
-            <!-- <a href="../files/mixed-precision.pdf" style="margin-left: 10px; text-decoration: none; color: #007bff; font-weight: lighter;">[PDF]</a> -->
-        </div>
-    </div>
-</div>
 
 
 
