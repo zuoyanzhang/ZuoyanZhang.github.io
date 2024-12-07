@@ -31,6 +31,6 @@ My research interests span ML system and software engineering including:
 * Floating-point Error Detection 
 * Program Analysis 
 * Machine Learning Compilers
-* LLM Distributed Training Acceleratio
+* LLM Distributed Training Acceleration
 
 
