@@ -14,7 +14,7 @@ author_profile: true
 **Intelligent Compilation and Optimization Techniques for Supernode Parallelism Strategies**
 * Huawei Technologies (Agreement No. TC20241115006), *2025.01 - 2026.12*
 * Main participant
-* ¥ 2,2866,000
+* ¥ 2,286,000
 
 **Research on Error Detection Methods for Floating-point Arithmetic Expressions**
 * Open Project of the State Key Laboratory of Mathematical Engineering and Advanced Computing (Grant No. 2023B02), *2022.10 - 2024.09*
